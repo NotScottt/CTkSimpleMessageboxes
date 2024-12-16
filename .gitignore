@@ -1,0 +1,4 @@
+dist/
+.pypirc
+pyproject.toml
+src/CTkSimpleMessagebox.egg-info
