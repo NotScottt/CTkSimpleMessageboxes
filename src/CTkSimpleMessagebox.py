@@ -1,4 +1,4 @@
-from customtkinter import CTkToplevel, CTkButton, CTkLabel, CTk
+from customtkinter import CTkToplevel, CTkButton, CTkLabel
 from os import path
 from winsound import MessageBeep, MB_ICONHAND, MB_OK
 
